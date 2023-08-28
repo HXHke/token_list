@@ -1,0 +1,413 @@
+{
+  "name": "Mantle",
+  "logoURI": "https://token-list.mantle.xyz/mantle_logo.svg",
+  "keywords": [
+    "scaling",
+    "layer2",
+    "infrastructure"
+  ],
+  "timestamp": "2023-08-24T09:17:54.649Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x0C8E00675596Ed98d1857df304fA154f1C80025f",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x0d2b6c830c4565A556bFf5417ee46A3D798a61f7",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x538EC12E9b801268913b33ea66B913691eFb310e",
+      "name": "IONX",
+      "symbol": "IONX",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/IONX/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LINK/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xDDb48DFDC7d6719008C39980fBF88008AA7D8306",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x06182Fa2330Ad3Bbc1fAaf69Ff188b2D349283f2",
+      "name": "LUSD Stablecoin",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/LUSD/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xc1dC2d65A2243c22344E725677A3E3BEBD26E604",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Mantle",
+      "symbol": "MNT",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xe20C2CF90f1e4AA8ABE20a6562C16B3601ad29BF",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x9F2259D6A9E016b051A9058Da05cFEedc0AB629E",
+      "name": "PENDLE",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/PENDLE/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xa55E78a7648683A64460E1fE64090eB75175c6b0",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x2ED3c15eC59CE827c4aBBabfF76d37562558437D",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xcDAdF374d104ad2D42C95051098f8B0D25751930",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"
+      }
+    },
+    {
+      "chainId": 5000,
+      "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0xc92470D7Ffa21473611ab6c6e2FcFB8637c8f330"
+      }
+    },
+    {
+      "chainId": 5001,
+      "address": "0x9155d6bFD923398D77292a2781D3E4acfD3cFFd6",
+      "name": "Wrapped BTC L2",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
